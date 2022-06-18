@@ -1,2 +1,2 @@
 # rsschool-cv
-https://walqer.github.io/rsschool-cv/cv
+[rsschool-cv](https://walqer.github.io/rsschool-cv/cv)  
