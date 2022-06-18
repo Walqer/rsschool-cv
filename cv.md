@@ -28,7 +28,7 @@ Now I want to go deeper into "real programming" and become a Front End developer
 * Unyson(Wordpress framework)
 * Figma
 
-## Code expamples
+## Code expamples:
 ```function pow(x, n) {
       if (n == 1){
         return x;
@@ -38,11 +38,11 @@ Now I want to go deeper into "real programming" and become a Front End developer
     }
     console.log(pow(5, 5));
 ```
-## Experience
+## Experience:
 I have been developing a site on WordPress for more than 4 years.
 My last project https://viza-shengen.ru/
 
-##  Education 
+##  Education:
   * Bachelor of Computer Engineering and Software 2015-2019
   Miras University
 
@@ -50,7 +50,7 @@ My last project https://viza-shengen.ru/
   Completed courses Manufacture, installation, adjustment, maintenance, repair,
   operation and quality control of medical equipment.
 
-##  Languages
+##  Languages:
 * Russian
 * Kazakh
 * Azerbaijan
