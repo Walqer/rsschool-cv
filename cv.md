@@ -9,16 +9,16 @@
 
 
 ## About me:
-Я познакомилься с разработкой сайтов в университете на 3 курсе.
+I got acquainted with the development of websites at the university in the 3rd year.
 
-После нескольких месецев обучения приступил к работе на фриланс бирже совместно с ментором.
+After a few months, he started working on a freelance exchange together with a mentor.
 
-Проработав с больше года я перешел на другую биржу где работал совместно с менеджером примерно 3 с половиной года
-все это время я занимался разработкой сайтов на wordpress иногда с нуля иногда с шаблонов также занимался правками.
+After working for more than a year, I moved to another exchange, where I worked together with the manager for about 3 and a half years.
+All this time I have been developing websites on WordPress, sometimes from scratch, sometimes I also edited from templates.
 
-В настоящее время работаю  Инженером-медтехникомПаралельно иногда беру заказы  от старых клиентов . 
+Currently, I work as a medical engineer. In parallel, I sometimes take orders from old clients.
 
-Сейчас я хочу более подробно углубиться в "настоящее программирование" и стать Front End разработчиком 
+Now I want to go deeper into "real programming" and become a Front End developer
 
 ## Skills:
 * Html
@@ -39,20 +39,20 @@
     console.log(pow(5, 5));
 ```
 ## Experience
-Занимаюсь разработкой сайто на wordpress уже больше 4 лет
+I have been developing a site on WordPress for more than 4 years.
 My last project https://viza-shengen.ru/
 
 ##  Education 
-  * Бакалавр вычислительной техники и программного обеспечения 2015-2019 
-  Университет Miras
+  * Bachelor of Computer Engineering and Software 2015-2019
+  Miras University
 
-  * 2022 Современная научно технологическая Акдемия
-  Закончил курсы Производство, монтаж, наладка, техническое обслуживание, ремонт, 
-  эксплуатация и контроль качества медицинской техники
+  * 2022 Modern Scientific and Technological Academy
+  Completed courses Manufacture, installation, adjustment, maintenance, repair,
+  operation and quality control of medical equipment.
 
 ##  Languages
 * Russian
 * Kazakh
 * Azerbaijan
 * English
-  * Где-то между А1 - А2 
+  * Somewhere between A1 - A2
