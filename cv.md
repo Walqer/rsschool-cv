@@ -1,10 +1,10 @@
 # Alimossim Agayev
 ## Constacts:
   ### Location: Atakent, Kazakhstan
-  ### Phone: +77027559774 сделать ссылкой
-  ### Email: agaev.alimosim@gmail.com сделать ссылкой
-  ### Github: walqer сделать ссылкой на  https://github.com/Walqer
-  ### Linkedin : www.linkedin.com/in/alimossim-agayev
+  ### Phone: +77027559774 
+  ### Email: agaev.alimosim@gmail.com 
+  ### Github: [walqer](https://github.com/Walqer)  
+  ### Linkedin : [Profile](www.linkedin.com/in/alimossim-agayev)   
   ### Discord: Alimosim Agayev (@walqer)
 
 
