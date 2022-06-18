@@ -1,11 +1,11 @@
 # Alimossim Agayev
 ## Constacts:
-  ### Location: Atakent, Kazakhstan
-  ### Phone: +77027559774 
-  ### Email: agaev.alimosim@gmail.com 
-  ### Github: [walqer](https://github.com/Walqer)  
-  ### Linkedin : [Profile](www.linkedin.com/in/alimossim-agayev)   
-  ### Discord: Alimosim Agayev (@walqer)
+### Location: Atakent, Kazakhstan
+### Phone: +77027559774 
+### Email: agaev.alimosim@gmail.com 
+### Github: [walqer](https://github.com/Walqer)  
+### Linkedin : [Profile](www.linkedin.com/in/alimossim-agayev)   
+### Discord: Alimosim Agayev (@walqer)
 
 
 ## About me:
@@ -28,7 +28,7 @@ Now I want to go deeper into "real programming" and become a Front End developer
 * Unyson(Wordpress framework)
 * Figma
 
- ## Code expamples
+## Code expamples
 ```function pow(x, n) {
       if (n == 1){
         return x;
