@@ -141,7 +141,7 @@ body {
 .footer {
   display: flex;
   justify-content: center;
-  border: 2px  solid #E8E8E8;
+  border: 2px solid #E8E8E8;
   border-left: 0;
   border-right: 0;
   margin-top: 150px;
@@ -168,7 +168,7 @@ body {
   border-right: 2px solid #E8E8E8;
   font-weight: 300;
   font-size: 20px;
-  padding: 20px ;
+  padding: 20px;
   display: flex;
   align-items: center;
   width: 33.3%;
@@ -176,12 +176,10 @@ body {
 
 }
 
-.footer-img{
-
+.footer-img {
   padding: 20px;
   display: flex;
   align-items: center;
   width: 33.3%;
   justify-content: center;
-
 }
