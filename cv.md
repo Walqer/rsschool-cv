@@ -1,6 +1,6 @@
 # Alimossim Agayev
 ## Constacts:
-### Location: Atakent, Kazakhstan
+### Location: Almaty, Kazakhstan
 ### Phone: +77027559774 
 ### Email: agaev.alimosim@gmail.com 
 ### Github: [walqer](https://github.com/Walqer)  
@@ -40,6 +40,7 @@ Now I want to go deeper into "real programming" and become a Front End developer
 ```
 ## Experience:
 I have been developing a site on WordPress for more than 4 years.
+My portfolio website https://alimosim.kz
 My last project https://viza-shengen.ru/
 
 ##  Education:
@@ -53,6 +54,5 @@ My last project https://viza-shengen.ru/
 ##  Languages:
 * Russian
 * Kazakh
-* Azerbaijan
+* Azerbaijani
 * English
-  * Somewhere between A1 - A2
